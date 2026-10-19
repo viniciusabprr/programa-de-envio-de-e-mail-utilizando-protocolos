@@ -1,5 +1,3 @@
-# programa-de-envio-de-e-mail-utilizando-protocolos
-
 # Envio e Leitura de E-mail com SMTP e IMAP
 
 Trabalho desenvolvido para a atividade da disciplina de **Redes de Computadores**.
